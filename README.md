@@ -11,6 +11,7 @@ XX0 - koduje 1
 XXX0 - koduje 2
 
 XXXX0 - koduje 3
+
 W miejscu X może się pojawić jedna jedynka lub więcej.
 
 Strumień danych zaczyna się zakodowanym zerem.
